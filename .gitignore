@@ -1,0 +1,14 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Raw unsplit dataset (keep only train/test which are the actual evidence)
+data/dataset/
+
+# Debug images from HSV calibration
+debug_*.jpg
