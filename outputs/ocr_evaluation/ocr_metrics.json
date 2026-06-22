@@ -1,0 +1,97 @@
+{
+  "avg_char_accuracy": 0.7921,
+  "avg_word_accuracy": 0.4564,
+  "per_image": [
+    {
+      "image": "image_20260217_115208.jpg",
+      "predicted": "08 NOS | FUZE A/R MINE A/T | 2B/L ND | 2025 12/SU 43C/BL | IN 08 7A BOXES",
+      "ground_truth": "08 NOS\nFUZE A/R MINE A/T\n2B/L NO\n2025 12/SU 43C/BL\nIN 08 7A BOXES",
+      "char_accuracy": 0.9846,
+      "word_accuracy": 0.9333
+    },
+    {
+      "image": "image_20260217_115212.jpg",
+      "predicted": "08 NOS | FUZE A/R MINE A/T | 2B/L ND | 2025 12/SU 43C/BL | 1N 08 7A BOXES",
+      "ground_truth": "08 NOS\nFUZE A/R MINE A/T\n2B/L NO\n2025 12/SU 43C/BL\nIN 08 7A BOXES",
+      "char_accuracy": 0.9692,
+      "word_accuracy": 0.8667
+    },
+    {
+      "image": "image_20260514_102512.jpg",
+      "predicted": "CONMANDANT | CADPULGAON",
+      "ground_truth": "COMMANDANT\nCADPULGAON",
+      "char_accuracy": 0.9524,
+      "word_accuracy": 0.5
+    },
+    {
+      "image": "image_20260514_104035.jpg",
+      "predicted": "FUZE117 | TO | OFB 2025 | CADPULGAON | DN SSVNAV | -2UT",
+      "ground_truth": "FUZE117\nOFB 2025\nCADPULGAON",
+      "char_accuracy": 0.75,
+      "word_accuracy": 1.0
+    },
+    {
+      "image": "image_20260514_130205.jpg",
+      "predicted": "CGN",
+      "ground_truth": "CGN",
+      "char_accuracy": 1.0,
+      "word_accuracy": 1.0
+    },
+    {
+      "image": "image_20260514_130509.jpg",
+      "predicted": "F-RON | CGN | UNIV",
+      "ground_truth": "F-RON\nCGN\nUNIV",
+      "char_accuracy": 1.0,
+      "word_accuracy": 1.0
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-01.jpg",
+      "predicted": "FUZE117MK20 | FILLED | F.A.11",
+      "ground_truth": "FUZE117MK-20\nFILLED\nF.A.D.",
+      "char_accuracy": 0.902,
+      "word_accuracy": 0.3333
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-02(1).jpg",
+      "predicted": "10FUZES117 | NK-20",
+      "ground_truth": "FAD\n10 FUZES 117\nMK-20",
+      "char_accuracy": 0.7895,
+      "word_accuracy": 0.0
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-03(1).jpg",
+      "predicted": "FUZES1W/MK20",
+      "ground_truth": "F.A.D.\nFUZES117/MK-20",
+      "char_accuracy": 0.6667,
+      "word_accuracy": 0.0
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-04(1).jpg",
+      "predicted": "",
+      "ground_truth": "FUZE 117\nCOMMANDANT\nOFB 2025\nCADPULGAON",
+      "char_accuracy": 0.0,
+      "word_accuracy": 0.0
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-05(1).jpg",
+      "predicted": "L0T202511/HPM1G/BL | IN 1O ANN CONTS 47B",
+      "ground_truth": "10 FUZES 117MK-20\nLOT 202511/HPM1G/BL\nIN 10 AMN CONTS 47B",
+      "char_accuracy": 0.7368,
+      "word_accuracy": 0.3
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-10.jpg",
+      "predicted": "FUZE117 | 1T117",
+      "ground_truth": "FUZE 117",
+      "char_accuracy": 0.6667,
+      "word_accuracy": 0.0
+    },
+    {
+      "image": "PHOTO-2025-12-23-11-20-11.jpg",
+      "predicted": "FUZE117MK20 | FILED | F.A.11",
+      "ground_truth": "FUZE117MK-20\nFILLED\nF.A.D.",
+      "char_accuracy": 0.88,
+      "word_accuracy": 0.0
+    }
+  ]
+}

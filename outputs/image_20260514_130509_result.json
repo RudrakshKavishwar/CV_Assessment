@@ -1,0 +1,11 @@
+{
+  "image": "data\\ocr_images\\image_20260514_130509.jpg",
+  "ocr": {
+    "texts": [
+      "F-RON",
+      "CGN",
+      "UNIV"
+    ],
+    "full_text": "F-RON | CGN | UNIV"
+  }
+}
